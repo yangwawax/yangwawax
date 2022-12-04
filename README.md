@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yangwawax
+- 👋 Hi, I’m Nurul Najwa
 - 👀 I’m interested in Big Data Analytics, Data Visualization, Descriptive Analysis, Prescriptive Analysis,...
 - 🌱 I’m currently learning GitHub, SQL, Advanced Excel, Python in EDA,...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward to collaborate on interesting projects!
 - 📫 How to reach me ? nnajwa.safie@gmail.com
 
 <!---
